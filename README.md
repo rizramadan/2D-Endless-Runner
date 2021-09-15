@@ -2,6 +2,8 @@
 #### Ini adalah File Projek Game 2D Endless Runner dasar.
 #### Lari dan dapatkan Skor Tertinggi 
 
+#### File Build Standalone .exe terletak diprojek dan di Releases
+
 ## Project Features
 <ol>
   <li>Object Pooling</li>
